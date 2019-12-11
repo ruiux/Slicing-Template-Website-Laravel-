@@ -1,2 +1,3 @@
-# First-time-laravel
-First time learning laravel and making this
+# Slice Bootsrap Template 
+First time learning slice template 
+Free source
